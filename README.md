@@ -1,7 +1,7 @@
 	Hi, I’m @Holanddez
 	I’m interested in improve my programming skills
 	I’m currently learning Python 
-	@Holanddez
+	@Holanddez on Twitter
 
 <!---
 Holanddez/Holanddez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
