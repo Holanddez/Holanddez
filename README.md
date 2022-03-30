@@ -1,6 +1,6 @@
 	Hi, I’m @Holanddez
 	I’m interested in improve my programming skills
-	I’m currently learning Python 
+	Learning Python
 	@Holanddez on Twitter
 
 <!---
