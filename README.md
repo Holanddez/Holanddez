@@ -1,6 +1,6 @@
-	Hi, I’m @Holanddez
+	Python dev
+	Learning JS
 	I’m interested in improve my programming skills
-	Learning Python
 	@Holanddez on Twitter
 
 <!---
